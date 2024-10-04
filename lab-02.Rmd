@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Table 11: Jamie Burrell, Taoran Wang, Tianqi Zheng, Yankun Shen, Chenghui Wu and Hani Matang"
+author: "Table 11: Jamie Burrell, Taoran Wang, Tianqi Zheng, Yankun Shen, Chenghui Wu and Hani Matang + test"
 date: "`r Sys.Date()`"
 output: html_document
 ---
